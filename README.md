@@ -1,7 +1,7 @@
 # cFTP services
 
 ## [Sign up for cFTP services](https://discord.gg/aSpEq2)
-### Get 5 GB free when you sign up!
+Get 5 GB free when you sign up!
 
 ## The cFTP services Discord
 The gathering place for cFTP services.
