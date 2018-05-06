@@ -23,4 +23,4 @@ The link for joining is at the top of the page. Or you can just go [here](https:
 If you cannot join the discord server, we have a [Google Forms](https://goo.gl/forms/Y3PiZ87OPPtrYMyl2) for signing up.
 
 ### E-mail
-Another method is asking for an invite via email. If you would like to do this, E-mail cftpservices@gmail.com to get started.
+Another method is asking for an account via email. If you would like to do this, E-mail cftpservices@gmail.com to get started.
