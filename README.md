@@ -1,5 +1,9 @@
 # cFTP services
 
+- [What is cFTP services?](https://thewhiteboy503.github.io/cFTPservices/#what-is-cftp-services)
+- [The cFTP services Discord](https://thewhiteboy503.github.io/cFTPservices/#the-cftp-services-discord)
+- [Alternate methods of signing up](https://thewhiteboy503.github.io/cFTPservices/#the-cftp-services-discord)
+
 ## [Sign up for cFTP services](https://discord.gg/5BP5UnT)
 Get 5 GB free when you sign up!
 
@@ -16,7 +20,7 @@ It's an FTP service, with all the work behind the scenes done by a real person a
 I host it on my desktop computer (that i use as a server) using FileZilla. I have 3 disks, a 1 TB hard drive (for my system, duh.), a 120 GB SSD **(this is where cFTP services accounts are stored)** and a 250 GB hard drive that is in a USB dock (this is where cFTP services archival storage is)
 
 ### Wait, cFTP services archival storage? What's that?
-If an account does not log into cFTP services for 15 days, the account is moved into cFTP services archival storage. The data will not be accessible until the account is taken out of archival storage (the files are **not** deleted, do not worry.). 
+If an account does not log into cFTP services for 15 days, the account is moved into cFTP services archival storage. The data will not be accessible until the account is taken out of archival storage (the files are **not** deleted, do not worry.).
 
 ## The cFTP services Discord
 The gathering place for cFTP services.
