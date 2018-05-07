@@ -1,5 +1,7 @@
 # cFTP services
 
+![Image](https://treat.had-a.party/52085c39.png)
+
 - [What is cFTP services?](https://thewhiteboy503.github.io/cFTPservices/#what-is-cftp-services)
 - [The cFTP services Discord](https://thewhiteboy503.github.io/cFTPservices/#the-cftp-services-discord)
 - [Alternate methods of signing up](https://thewhiteboy503.github.io/cFTPservices/#the-cftp-services-discord)
