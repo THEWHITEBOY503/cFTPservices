@@ -13,13 +13,13 @@ Get 5 GB free when you sign up!
 cFTP services stands for "Conner File Transfer Protocol services".
 
 ### What is FTP?
-FTP (File Transfer Protocol) is a method of downloading and uploading files. Think of it like a watered down Google Drive.
+FTP (File Transfer Protocol) is a method of downloading and uploading files. Think of it like Google Drive, but simplified.
 
 ### What makes cFTP services so different?
 It's an FTP service, with all the work behind the scenes done by a real person and not an automated bot. It's also completely free to use.
 
 ### What do you host cFTP services on?
-I host it on my desktop computer (that i use as a server) using FileZilla. I have 3 disks, a 1 TB hard drive (for my system, duh.), a 120 GB SSD **(this is where cFTP services accounts are stored)** and a 250 GB hard drive that is in a USB dock (this is where cFTP services archival storage is)
+I host it on my desktop computer (that i use as a server) using FileZilla. I have 3 disks, a 1 TB hard drive (for my system, duh.), a 120 GB SSD **(this is where cFTP services accounts are stored)** and a 250 GB hard drive that is in a USB dock (this is where cFTP services archival storage is). I have a stable connection and a stable computer, so don't worry about the server dying. And if the server somehow goes down, I'll be quick to get it back on its feet (that is, unless I'm asleep...)
 
 ### Wait, cFTP services archival storage? What's that?
 If an account does not log into cFTP services for 15 days, the account is moved into cFTP services archival storage. The data will not be accessible until the account is taken out of archival storage *(the files are* **not** *deleted, do not worry.)*.
