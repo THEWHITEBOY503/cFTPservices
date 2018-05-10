@@ -48,8 +48,8 @@ If you cannot join the discord server, we have a [Google Forms](https://goo.gl/f
 Another method is asking for an account via email. If you would like to do this, E-mail cftpservices@gmail.com to get started. The application questions may vary using this method
 
 ## cFTP public access
-If you would like to try out cFTP or just send someone a file over FTP, cFTP offers a public access program. It can store up to 1.37 GB total and is cleared out daily.
-To get in to cFTP public access,
+If you would like to try out cFTP or just send someone a file over FTP, cFTP offers a public access program. It can store up to 1.37 GB total and is cleared out daily. **Note that anyone can log into cFTP public access, so make sure you do NOT upload anything private!**
+To get in to cFTP public access:
 
 hostname: connerftp.ddns.net
 
