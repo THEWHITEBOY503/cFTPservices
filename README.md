@@ -5,6 +5,7 @@
 - [What is cFTP services?](https://thewhiteboy503.github.io/cFTPservices/#what-is-cftp-services)
 - [The cFTP services Discord](https://thewhiteboy503.github.io/cFTPservices/#the-cftp-services-discord)
 - [Alternate methods of signing up](https://thewhiteboy503.github.io/cFTPservices/#the-cftp-services-discord)
+- [cFTP Public Access](https://thewhiteboy503.github.io/cFTPservices/#cftp-public-access)
 
 ## [Sign up for cFTP services](https://discord.gg/5BP5UnT)
 Get 5 GB free when you sign up!
