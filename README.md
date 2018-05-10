@@ -31,13 +31,13 @@ The gathering place for cFTP services.
 Be active in the Discord server. Taso is in the server. Every 2 levels, you get an extra GB of storage.
 
 ### The signing up process
-Once you are in the server and you ask to join cFTP services, I'll DM you some questions and stuff (I swear if you don't answer honestly) and if I think you are worthy of my FTP server (Which I probably will, fear not) I will ask you to provide me with a username and password. I advise you use a password different and not relating to the password you use for everything (If you're that type of person).
+Once you are in the server and you ask to join cFTP services, I'll DM you some questions and stuff (I swear if you don't answer honestly...) and if I think you are worthy of my FTP server (Which I probably will, fear not) I will ask you to provide me with a username and password. I advise you use a password different and not relating to the password you use for everything (If you're that type of person).
 
 ### Joining the server
 The link for joining is at the top of the page. Or you can just go [here](https://discord.gg/5BP5UnT) if you don't feel like scrolling up
 ## Alternate methods of signing up
 
-**Please note, if you use these methods to sign up, you will not be able to gain extra storage.**
+**please note, if you use these methods to sign up, you will not be able to gain extra storage.**
 
 ### Google Forms
 If you cannot join the discord server, we have a [Google Forms](https://goo.gl/forms/Y3PiZ87OPPtrYMyl2) for signing up.
