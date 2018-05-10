@@ -49,6 +49,9 @@ Another method is asking for an account via email. If you would like to do this,
 ## cFTP public access
 If you would like to try out cFTP or just send someone a file over FTP, cFTP offers a public access program. It can store up to 1.37 GB total and is cleared out daily.
 To get in to cFTP public access,
+
 hostname: connerftp.ddns.net
+
 username: publicaccess
+
 password: cftppublicaccess
