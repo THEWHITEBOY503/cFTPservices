@@ -22,7 +22,7 @@ It's an FTP service, with all the work behind the scenes done by a real person a
 I host it on my desktop computer (that I use as a server) using FileZilla. I have 3 disks, a 1 TB hard drive (for my system, duh.), a 120 GB SSD **(This is where cFTP services accounts are stored)** and a 250 GB hard drive that is in a USB dock (This is where cFTP services archival storage is). I have a stable connection and a stable computer, so don't worry about the server dying. And if the server somehow goes down, I'll be quick to get it back on its feet (That is, unless I'm asleep...)
 
 ### Wait, cFTP services archival storage? What's that?
-If an account does not log into cFTP services for 15 days, the account is moved into cFTP services archival storage. The data will not be accessible until the account is taken out of archival storage *(The files are* **not** *deleted, do not worry)*.
+If an account does not log into cFTP services for 15 days, the account is moved into cFTP services archival storage. The data will not be accessible until the account is taken out of archival storage *(the files are* **not** *deleted, do not worry)*.
 
 ## The cFTP services Discord
 The gathering place for cFTP services.
@@ -31,7 +31,7 @@ The gathering place for cFTP services.
 Be active in the Discord server. Taso is in the server. Every 2 levels, you get an extra GB of storage.
 
 ### The signing up process
-Once you are in the server and you ask to join cFTP services, I'll DM you some questions and stuff (I swear if you don't answer honestly...) and if I think you are worthy of my FTP server (Which I probably will, fear not) I will ask you to provide me with a username and password. I advise you use a password different and not relating to the password you use for everything (If you're that type of person).
+Once you are in the server and you ask to join cFTP services, I'll DM you some questions and stuff and if I think you are worthy of my FTP server (Which I probably will, fear not) I will ask you to provide me with a username and password. I advise you use a password different and not relating to the password you use for everything (If you're that type of person).
 
 ### Joining the server
 The link for joining is at the top of the page. Or you can just go [here](https://discord.gg/5BP5UnT) if you don't feel like scrolling up
@@ -43,4 +43,4 @@ The link for joining is at the top of the page. Or you can just go [here](https:
 If you cannot join the discord server, we have a [Google Forms](https://goo.gl/forms/Y3PiZ87OPPtrYMyl2) for signing up.
 
 ### E-mail
-Another method is asking for an account via email. If you would like to do this, E-mail cftpservices@gmail.com to get started. The application questions may vary using this method.
+Another method is asking for an account via email. If you would like to do this, E-mail cftpservices@gmail.com to get started. The application questions may vary using this method
