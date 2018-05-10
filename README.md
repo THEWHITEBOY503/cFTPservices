@@ -35,7 +35,6 @@ Once you are in the server and you ask to join cFTP services, I'll DM you some q
 
 ### Joining the server
 The link for joining is at the top of the page. Or you can just go [here](https://discord.gg/5BP5UnT) if you don't feel like scrolling up
-
 ## Alternate methods of signing up
 
 **please note, if you use these methods to sign up, you will not be able to gain extra storage.**
