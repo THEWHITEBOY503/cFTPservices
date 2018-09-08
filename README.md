@@ -7,11 +7,11 @@
 - [Alternate methods of signing up](https://thewhiteboy503.github.io/cFTPservices/#the-cftp-services-discord)
 - [cFTP Public Access](https://thewhiteboy503.github.io/cFTPservices/#cftp-public-access)
 
-## [Sign up for cFTP services](https://discord.gg/5BP5UnT)
+## [Sign up for cFTP services at cServices](https://discord.gg/5BP5UnT)
 Get 5 GB free when you sign up!
 
 ## What is cFTP services?
-cFTP services stands for "Conner File Transfer Protocol services".
+cFTP services stands for "Conner File Transfer Protocol services". cFTP Services is the first service offerend by cServices.
 
 ### What is FTP?
 FTP (File Transfer Protocol) is a method of downloading and uploading files. Think of it like Google Drive, but simplified.
