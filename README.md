@@ -1,6 +1,6 @@
 # cFTP services
 
-![Image](https://treat.had-a.party/4faf8adc.gif)
+![Image](https://death.is-for.me/i/klxp.gif)
 
 - [What is cFTP services?](https://thewhiteboy503.github.io/cFTPservices/#what-is-cftp-services)
 - [The cFTP services Discord](https://thewhiteboy503.github.io/cFTPservices/#the-cftp-services-discord)
