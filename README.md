@@ -11,19 +11,19 @@
 Get 5 GB free when you sign up!
 
 ## What is cFTP services?
-cFTP services stands for "Conner File Transfer Protocol services". cFTP Services is the first service offerend by cServices.
+cFTP services stands for "Conner File Transfer Protocol services". cFTP Services is the first service offered by cServices.
 
 ### What is FTP?
-FTP (File Transfer Protocol) is a method of downloading and uploading files. Think of it like Google Drive, but simplified.
+FTP (File Transfer Protocol) is a method of downloading and uploading files. Think of it like sending a letter to your friend, but its much faster and you're sending files and not paper.
 
 ### What makes cFTP services so different?
 It's an FTP service, with all the work behind the scenes done by a real person and not an automated bot. It's also completely free to use.
 
 ### What do you host cFTP services on?
-I host it on my desktop computer (that I use as a server) using FileZilla. I have 3 disks, a 1 TB hard drive (for my system, duh.), a 120 GB SSD **(This is where cFTP services accounts are stored)** and a 250 GB hard drive that is in a USB dock (This is where cFTP services archival storage is). I have a stable connection and a stable computer, so don't worry about the server dying. And if the server somehow goes down, I'll be quick to get it back on its feet (That is, unless I'm asleep...)
+I host it on my Dell PowerEdge 2850 using FileZilla. I have a stable connection and a stable computer, so don't worry about the server dying. And if the server somehow goes down, I'll be quick to get it back on its feet (That is, unless I'm asleep...)
 
-### Wait, cFTP services archival storage? What's that?
-If an account does not log into cFTP services for 15 days, the account is moved into cFTP services archival storage. The data will not be accessible until the account is taken out of archival storage *(The files are* **not** *deleted, do not worry)*.
+### What do you do with cFTP services?
+You can upload any file to it and have your friend connect to a read only version of your account to download the file. You can store up to 5 GB of files. 
 
 ## The cFTP services Discord
 The gathering place for cFTP services.
