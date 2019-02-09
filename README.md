@@ -2,6 +2,8 @@
 
 ![Image](https://death.is-for.me/i/klxp.gif)
 
+**ATTENTION: cFTP Services is currently experiancing an outage due to a server failure. This outage is indefinate, but I predict it might take a month or 2 to fix. REMAIN CALM, NOTHING WILL BE DELETED.**
+
 - [What is cFTP services?](https://thewhiteboy503.github.io/cFTPservices/#what-is-cftp-services)
 - [The cFTP services Discord](https://thewhiteboy503.github.io/cFTPservices/#the-cftp-services-discord)
 - [Alternate methods of signing up](https://thewhiteboy503.github.io/cFTPservices/#the-cftp-services-discord)
