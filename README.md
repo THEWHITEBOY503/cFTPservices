@@ -2,7 +2,7 @@
 
 ![Image](https://death.is-for.me/i/klxp.gif)
 
-**ATTENTION: cFTP Services is currently experiancing an outage due to a server failure. This outage is indefinate, but I predict it might take a month or 2 to fix. REMAIN CALM, NOTHING WILL BE DELETED.**
+**ATTENTION: cFTP Services is currently experiencing an outage due to a server failure. This outage is indefinite, but I predict it might take a month or 2 to fix. REMAIN CALM, NOTHING WILL BE DELETED.**
 
 - [What is cFTP services?](https://thewhiteboy503.github.io/cFTPservices/#what-is-cftp-services)
 - [The cFTP services Discord](https://thewhiteboy503.github.io/cFTPservices/#the-cftp-services-discord)
@@ -25,7 +25,7 @@ It's an FTP service, with all the work behind the scenes done by a real person a
 I host it on my Dell PowerEdge 2850 using FileZilla. I have a stable connection and a stable computer, so don't worry about the server dying. And if the server somehow goes down, I'll be quick to get it back on its feet (That is, unless I'm asleep...)
 
 ### What do you do with cFTP services?
-You can upload any file to it and have your friend connect to a read only version of your account to download the file. You can store up to 5 GB of files. 
+You can upload any file to it and have your friend connect to a read only version of your account to download the file. You can store up to 5 GB of files.
 
 ## The cFTP services Discord
 The gathering place for cFTP services.
